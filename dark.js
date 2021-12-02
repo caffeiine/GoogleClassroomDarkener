@@ -1232,11 +1232,11 @@ span {
 }
 
 div.gb_5a {
-    color: rgb(60, 60, 60) !important;
+    background-color: rgb(60, 60, 60) !important;
 }
 
 div.gb_4a {
-    color: rgb(60, 60, 60) !important;
+    background-color: rgb(60, 60, 60) !important;
 }
 `;
 

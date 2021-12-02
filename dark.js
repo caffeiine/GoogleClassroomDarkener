@@ -1230,6 +1230,14 @@ h1.fOvfyc.XjYjO.VnOHwf-Tvm9db {
 span {
   color: white !important;
 }
+
+div.gb_5a {
+    color: rgb(60, 60, 60) !important;
+}
+
+div.gb_4a {
+    color: rgb(60, 60, 60) !important;
+}
 `;
 
 var stylesheet = document.createElement("style");
